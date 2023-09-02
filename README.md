@@ -1,6 +1,6 @@
 # Test_Automation_Con_Playwright
 
-# Nombre del Proyecto
+# Automatizacion con Playwright
 
 Proyecto de Pruebas Automatizadas con Playwright y JavaScript
 
